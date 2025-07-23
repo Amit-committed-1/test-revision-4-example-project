@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+                String message = "This is the bug ";
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
