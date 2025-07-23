@@ -11,6 +11,7 @@ public class DemoApplication {
                 int age = 25;
                 float sal = 76500.768f;
                 boolean isEligibleForVote = true;
+                String village = "Pratappur"
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
